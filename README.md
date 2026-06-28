@@ -88,5 +88,5 @@
 ---
 
 ## 🔗 Project Links
-* **Live Website Link:** [AgroConnect Market on Wix](https://jemmafrieda.wixsite.com/agroconnect-market)
+* **Live Website Link:** [AgroConnect Market on Wix](https://emmafrieda33.wixsite.com/agriconnect-market)
 * **GitHub Repository Link:** [Agroconnect-Markets Repository](https://github.com/JemmaFrieda/Agroconnect-Markets)
